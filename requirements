@@ -1,0 +1,12 @@
+pip install flask
+pip install gevent
+pip install Flask-SocketIO
+pip install click
+pip install Jinja2
+pip install python-socketio
+pip install WTForms
+pip install eventlet
+pip install MarkupSafe
+pip install greenlet
+pip install Flask-WTF
+pip install logging

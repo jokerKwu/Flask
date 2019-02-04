@@ -1,3 +1,3 @@
-# Flask
+This code goes along with this video: https://youtu.be/RdSrkkrj3l4
 
-Flask를 이용해서 채팅 구현
+It covers a simple SocketIO app in Flask.
